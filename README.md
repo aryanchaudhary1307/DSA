@@ -36,7 +36,7 @@ Solve 100+ LeetCode problems in Java, learning patterns like:
 - 🏫 SPIT Mumbai  
 - 📍 India  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-chaudhary-40211b314)  
-- 💬 LeetCode handle: `aryanchaudhary1307`  
+- 💬 LeetCode handle: `aryan_chaudhary137`  
 - 💻 Language: Java
 
 ---
